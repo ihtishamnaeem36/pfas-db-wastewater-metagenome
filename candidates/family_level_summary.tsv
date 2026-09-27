@@ -1,0 +1,15 @@
+reference_family	n_candidate_genes	n_high_confidence	n_moderate	n_cities	cities	n_samples_with_detection	total_tpm	best_pident	best_coverage
+Toolkit:CBAD	206	67	139	3	Mardan,Peshawar,Swat	18	747.44	40.1	97.1
+Toolkit:CBADH	75	40	35	3	Mardan,Peshawar,Swat	18	258.88	37.0	95.2
+OriginalCurated:FAcD	26	2	24	3	Mardan,Peshawar,Swat	17	73.83	55.4	102.0
+Toolkit:ATZA	22	13	9	3	Mardan,Peshawar,Swat	18	192.16	32.3	98.7
+OriginalCurated:HAD	19	5	14	3	Mardan,Peshawar,Swat	18	51.27	52.4	98.6
+Toolkit:3UMB	10	4	6	3	Mardan,Peshawar,Swat	14	43.88	65.0	98.3
+Toolkit:BCRD	9	5	4	3	Mardan,Peshawar,Swat	17	26.78	70.7	96.8
+Toolkit:BCRC	5	1	4	3	Mardan,Peshawar,Swat	15	7.55	67.7	98.7
+OriginalCurated:DEF2	5	3	2	1	Mardan	11	7.79	55.6	96.0
+Toolkit:WHM00222.	3	0	3	1	Peshawar	9	4.29	26.1	64.8
+Toolkit:BCRB	2	2	0	2	Peshawar,Swat	9	4.37	73.7	98.6
+Other	2	0	2	2	Mardan,Peshawar	4	1.46	28.0	67.1
+Toolkit:BCRA	1	0	1	1	Peshawar	2	0.73	26.9	65.3
+Toolkit:Q6NAM	1	0	1	1	Mardan	10	2.47	28.9	94.0
