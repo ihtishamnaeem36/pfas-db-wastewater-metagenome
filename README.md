@@ -1,4 +1,4 @@
-# PFAS-Wastewater-Metagenome-DB
+# PFAS-DB-Wastewater-Metagenome
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](pyproject.toml)
@@ -26,7 +26,7 @@ This repository provides:
 ## Repository Structure
 
 ```
-pfas-wastewater-metagenome-db/
+pfas-db-wastewater-metagenome/
 ├── database/                   <- Curated Reference Database & Profile Library
 │   ├── curated_pfas_references_71.fasta          # 71 curated reference protein sequences
 │   ├── curated_pfas_tierA_tierB_8seqs.fasta      # 8 core literature Tier A/B references
@@ -84,8 +84,8 @@ Clone the repository and install dependencies using `pip` or `uv`:
 
 ```bash
 # Clone repository
-git clone https://github.com/username/pfas-wastewater-metagenome-db.git
-cd pfas-wastewater-metagenome-db
+git clone https://github.com/ihtishamnaeem36/pfas-db-wastewater-metagenome.git
+cd pfas-db-wastewater-metagenome
 
 # Install dependencies via pip
 pip install -r requirements.txt

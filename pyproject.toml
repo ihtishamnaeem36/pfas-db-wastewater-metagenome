@@ -1,5 +1,5 @@
 [project]
-name = "pfas-wastewater-metagenome-db"
+name = "pfas-db-wastewater-metagenome"
 version = "1.0.0"
 description = "Curated Reference Database and Metagenomic Discovery Pipeline for Candidate PFAS-Transforming Enzymes"
 readme = "README.md"
